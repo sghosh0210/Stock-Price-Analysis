@@ -116,8 +116,9 @@ with Python + `yfinance` installed to refresh in the cloud).
 ```
 .
 ├── Stock_market_dashboard.pbix   # Power BI report (data model + visuals)
-├── 01_data.ipynb           # standalone version of the Python collection script
-└── README.md                    # this file
+├── 01_data.ipynb       # standalone version of the Python collection script
+Reort         
+└── README.md            # this file
 ```
 
 ## Notes
