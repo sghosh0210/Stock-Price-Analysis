@@ -6,6 +6,9 @@ embedded Python script.
 
 ## Overview
 
+<img width="984" height="550" alt="image" src="https://github.com/user-attachments/assets/60497e94-f679-457a-8ec5-87a9ead3917a" />
+
+
 | | |
 |---|---|
 | **Data source** | Yahoo Finance (via the `yfinance` Python package) |
@@ -113,7 +116,7 @@ with Python + `yfinance` installed to refresh in the cloud).
 ```
 .
 ├── Stock_market_dashboard.pbix   # Power BI report (data model + visuals)
-├── fetch_stock_data.py           # standalone version of the Python collection script
+├── 01_data.ipynb           # standalone version of the Python collection script
 └── README.md                    # this file
 ```
 
